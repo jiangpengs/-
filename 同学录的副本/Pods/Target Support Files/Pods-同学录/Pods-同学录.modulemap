@@ -1,0 +1,6 @@
+module Pods____ {
+  umbrella header "Pods-同学录-umbrella.h"
+
+  export *
+  module * { export * }
+}
